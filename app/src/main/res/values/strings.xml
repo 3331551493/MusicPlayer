@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="music_start">开始播放</string>
+    <string name="music_stop">停止播放</string>
+    <string name="music_pause">暂停播放</string>
+    <string name="music_loop">循环播放</string>
+    <string name="music_pre">上一首</string>
+    <string name="music_next">下一首</string>
+    <string name="random_play">随机播放</string>
+</resources>
